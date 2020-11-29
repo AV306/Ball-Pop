@@ -1,0 +1,14 @@
+C:\Users\Brandon\source\repos\Ball Pop\bin\Release\Ball Pop.exe.config
+C:\Users\Brandon\source\repos\Ball Pop\bin\Release\Ball Pop.exe
+C:\Users\Brandon\source\repos\Ball Pop\bin\Release\Ball Pop.pdb
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball Pop.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball_Pop.Form1.resources
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball_Pop.Properties.Resources.resources
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball Pop.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball Pop.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball Pop.exe
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball Pop.pdb
+C:\Users\Brandon\source\repos\Ball Pop\bin\Release\Ball Pop.exe.manifest
+C:\Users\Brandon\source\repos\Ball Pop\bin\Release\Ball Pop.application
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball Pop.exe.manifest
+C:\Users\Brandon\source\repos\Ball Pop\obj\Release\Ball Pop.application
