@@ -1,0 +1,10 @@
+C:\Users\Brandon\source\repos\Ball Pop\bin\Debug\Ball Pop.exe.config
+C:\Users\Brandon\source\repos\Ball Pop\bin\Debug\Ball Pop.exe
+C:\Users\Brandon\source\repos\Ball Pop\bin\Debug\Ball Pop.pdb
+C:\Users\Brandon\source\repos\Ball Pop\obj\Debug\Ball Pop.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Ball Pop\obj\Debug\Ball_Pop.Form1.resources
+C:\Users\Brandon\source\repos\Ball Pop\obj\Debug\Ball_Pop.Properties.Resources.resources
+C:\Users\Brandon\source\repos\Ball Pop\obj\Debug\Ball Pop.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\Ball Pop\obj\Debug\Ball Pop.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Ball Pop\obj\Debug\Ball Pop.exe
+C:\Users\Brandon\source\repos\Ball Pop\obj\Debug\Ball Pop.pdb
